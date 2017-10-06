@@ -1,4 +1,4 @@
-# Single-Layer Perceptron
+# Single-layer Perceptron
 
 Proposed by [Rosenblatt](https://en.wikipedia.org/wiki/Frank_Rosenblatt "Rosenblatt"), it is the simplest Artificial Neural Network.
 
