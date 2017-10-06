@@ -6,6 +6,8 @@ Proposed by [Rosenblatt](https://en.wikipedia.org/wiki/Frank_Rosenblatt "Rosenbl
 
 This Jupyter Notebook shows step by step, the process of building a Single-layer Perceptron using Python to classify 2D points.
 
+![Single-Layer Perceptron Example Image](https://raw.githubusercontent.com/whoisraibolt/Single-Layer-Perceptron/master/Single-Layer-Perceptron-Example-Image.png)
+
 # Dependencies
 
 - matplotlib
