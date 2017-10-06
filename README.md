@@ -16,8 +16,8 @@ You can install missing dependencies with [pip](https://pip.pypa.io/en/stable/ "
 
 # Usage
 
-(1) Install the dependencies;
-(2) Run Jupyter Notebook in terminal to see the code in your browser.
+1. Install the dependencies;
+2. Run Jupyter Notebook in terminal to see the code in your browser.
 
 #Credits
 
