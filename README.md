@@ -8,6 +8,8 @@ This Jupyter Notebook shows step by step, the process of building a Single-layer
 
 ![Single-Layer Perceptron Example Image](https://raw.githubusercontent.com/whoisraibolt/Single-Layer-Perceptron/master/Single-Layer-Perceptron-Example-Image.png)
 
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/whoisraibolt/Single-Layer-Perceptron/master/Single-Layer-Perceptron-Example-Image.png"/></div>
+
 # Dependencies
 
 - matplotlib
