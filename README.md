@@ -21,7 +21,7 @@ You can install missing dependencies with [pip](https://pip.pypa.io/en/stable/ "
 1. Install the dependencies;
 2. Run Jupyter Notebook in terminal to see the code in your browser.
 
-#Credits
+# Credits
 
 - [Linguagens de Programação](https://linguagensdeprogramacao.wordpress.com/2011/09/03/perceptron-usando-python/ "Linguagens de Programação")
 - [The Data Science Lab](https://datasciencelab.wordpress.com/2014/01/10/machine-learning-classics-the-perceptron/ "The Data Science Lab")
