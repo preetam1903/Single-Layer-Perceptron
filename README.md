@@ -1,5 +1,10 @@
 # Single-layer Perceptron
 
+![GitHub language count](https://img.shields.io/github/languages/count/whoisraibolt/Single-Layer-Perceptron.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/whoisraibolt/Single-Layer-Perceptron.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/whoisraibolt/Single-Layer-Perceptron.svg)
+![GitHub](https://img.shields.io/github/license/whoisraibolt/Single-Layer-Perceptron.svg)
+
 Proposed by [Rosenblatt](https://en.wikipedia.org/wiki/Frank_Rosenblatt "Rosenblatt"), it is the simplest Artificial Neural Network.
 
 ## Overview
